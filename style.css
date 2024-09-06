@@ -9,6 +9,8 @@ section {
 
 #theme-toggle{
     display: flex;
+    width: 100px;
+
 }
 .task-manager {
     background-color: white;
